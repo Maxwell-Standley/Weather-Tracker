@@ -14,22 +14,22 @@ receive, and parse the data coming in.
 The easiest way  to do this is as follows: 
 
 * Download java jdk 21 at the following link: https://www.oracle.com/java/technologies/downloads/#jdk21-windows
-* Install java in the default path for simplicity
+* Install Java in the default path for simplicity
 * Open and run the "Weather tracker" java file.
 ## How to adjust this for your own use
 
-Feel free to adjsut or edit the code as you need! It can easily be changed to update when you specify. The location is set to a random city in Minnesota, Unites states.
+Feel free to adjust or edit the code as you need! It can easily be changed to update when you specify. The location is set to a random city in Minnesota, United States.
 
 If you would like to do so, follow these steps:
 * go to https://www.visualcrossing.com/ and search your location.
-* Replace line 27's "api url insert" with your URL.
+* Replace line 27's "API URL insert" with your URL.
 * Go to your profile, copy your API key, and put it in line 26.
 
-If you woulld like to make it update more frequently or less frequently: 
+If you would like to make it update more frequently or less frequently: 
 
 * Open the WeatherTracker file
 * Search for line 25, this contains the timeframe code. 
-* Edit the period number, it is in default for hours. You can modify hours to days,seconds, and minutes if you prefer.
+* Edit the period number, it is in default for hours. You can modify hours to days, seconds, and minutes if you prefer.
 
 
 ## Find a bug?
