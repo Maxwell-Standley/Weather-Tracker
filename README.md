@@ -1,5 +1,5 @@
 # Java Weather tracker
-## A FULLY FUNCTIONING WEATHER TRACKER THAT SENDS UPDATES EVEYR 3 HOURS TO YOUR TASK BAR IN WINDOWS
+## A FULLY FUNCTIONING WEATHER TRACKER THAT SENDS UPDATES EVERY 3 HOURS TO YOUR TASKBAR IN WINDOWS
 
 This project is a project I had picked up to practice my Java and learn how to do API calls. It shows how to send,
 receive, and parse the data coming in.
